@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">iRobotControl</string>
+    <string name="toast_connect">Connect to device successfully</string>
+    <string name="toast_disconnect">Device disconnected</string>
+    <string name="text_try_connect">Connecting</string>
+    <string name="text_connect">Connected</string>
+    <string name="button_dpad">Use dpad</string>
+    <string name="button_joystick">Use joystick</string>
+</resources>
